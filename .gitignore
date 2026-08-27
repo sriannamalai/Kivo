@@ -13,3 +13,6 @@ desktop/target/
 /mock-servers/
 /oauth-mock-server/
 /collection-examples/
+
+# macOS
+.DS_Store
